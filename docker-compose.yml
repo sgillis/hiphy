@@ -1,0 +1,5 @@
+dev:
+    build: .
+    volumes:
+        .:/src
+    command: /bin/bash
